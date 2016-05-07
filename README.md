@@ -1,3 +1,5 @@
 # google-homepage
 
-first
+Recreate the Google Homepage. 
+
+This project is found on theodinproject.com
