@@ -1,5 +1,5 @@
-# google-homepage
+Road Runner Specialty Group Inc. Sample Mockup
 
-Recreate the Google Homepage. 
+Site designed by Seth Balodi, logo design by Elise Fegler
 
-This project is found on theodinproject.com
+Copyright 2016
