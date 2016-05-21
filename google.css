@@ -7,7 +7,7 @@ body {
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 100px;
+	height: 5%;
 	background-color: rgba(62, 98, 130, 0.72);
 	z-index: 1;
 }
@@ -24,16 +24,16 @@ body {
 
 #logo_container {
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 50%;
 	margin-top: -180px; 
 	margin-left: -150px;
 }
 
-div.text {
+div.google_searchbar {
 	position: absolute;
-	top: 400px;
-	border: 5px solid purple;
+	top: 520px;
+	left: 36%;
 }
 
 #logo {
